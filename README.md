@@ -78,8 +78,8 @@ Python
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Cloudjexp&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloudjexp&layout=compact&theme=catppuccin_mocha&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Cloudjexp&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" alt="Cloudjexp's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloudjexp&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
@@ -87,7 +87,43 @@ Python
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Cloudjexp&theme=catppuccin-mocha&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Cloudjexp&theme=catppuccin-mocha&hide_border=true" alt="Cloudjexp's GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Analytics
+
+<p align="center">
+  <a href="https://github.com/Cloudjexp">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Cloudjexp&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=f5c2e7&area=true&hide_border=true"
+      alt="Cloudjexp's GitHub Contribution Analytics"
+      width="100%"
+    />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Cloudjexp/Cloudjexp/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Cloudjexp/Cloudjexp/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/Cloudjexp/Cloudjexp/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
 </p>
 
 ---
