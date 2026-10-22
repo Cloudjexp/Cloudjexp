@@ -22,9 +22,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Cloudjexp
+          
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23cba6f7
+            dist/github-contribution-grid-snake.svg?color_snake=%23cba6f7&color_dots=%23313244%2345475a%236c7086%23a6e3a1%23a6e3a1
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23cba6f7&color_dots=%23313244%2345475a%236c7086%23a6e3a1%23a6e3a1
 
       - name: Publish snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
