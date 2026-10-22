@@ -23,8 +23,8 @@ jobs:
         with:
           github_user_name: Cloudjexp
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23cba6f7&color_dots=%231e1e2e%23313a4b%2345475a%23a6e3a1%23a6e3a1
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23cba6f7&color_dots=%231e1e2e%23313a4b%2345475a%23a6e3a1%23a6e3a1
+            dist/github-contribution-grid-snake.svg?palette=github
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Publish snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
