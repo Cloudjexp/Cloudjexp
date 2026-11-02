@@ -92,22 +92,6 @@ Python
 
 ---
 
-## 📈 Contribution Analytics
-
-<p align="center">
-  <a href="https://github.com/Cloudjexp">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Cloudjexp&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=f5c2e7&area=true&hide_border=true"
-      alt="Cloudjexp's GitHub Contribution Analytics"
-      width="100%"
-    />
-  </a>
-</p>
-
----
-
----
-
 ## 🎯 Goals
 
 - Improve my Java skills
